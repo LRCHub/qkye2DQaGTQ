@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "You Broke Me",
+  "base_artist": "RudyWade、Marin Hoxha",
+  "createdAt": "2025-12-01T06:05:37.867196Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "you broke me first",
+      "artist": "Tate McRae",
+      "has_synced": true,
+      "path": "select/01_you_broke_me_first_Tate_McRae.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "You Broke Me First.",
+      "artist": "Tate McRae",
+      "has_synced": true,
+      "path": "select/02_You_Broke_Me_First._Tate_McRae.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "you broke me first",
+      "artist": "Tate McRae",
+      "has_synced": true,
+      "path": "select/03_you_broke_me_first_Tate_McRae.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "You Broke Me First (Luca Schreiner Remix)",
+      "artist": "Tate McRae",
+      "has_synced": true,
+      "path": "select/04_You_Broke_Me_First_(Luca_Schreiner_Remix)_Tate_McRae.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "you broke me first",
+      "artist": "Tate McRae",
+      "has_synced": true,
+      "path": "select/05_you_broke_me_first_Tate_McRae.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "you broke me first (Luca Schreiner Remix)",
+      "artist": "Tate McRae",
+      "has_synced": true,
+      "path": "select/06_you_broke_me_first_(Luca_Schreiner_Remix)_Tate_McRae.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "you broke me first",
+      "artist": "Tate McRae",
+      "has_synced": true,
+      "path": "select/07_you_broke_me_first_Tate_McRae.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "you broke me first",
+      "artist": "Tate McRae",
+      "has_synced": true,
+      "path": "select/08_you_broke_me_first_Tate_McRae.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "You Broke Me First",
+      "artist": "Our Last Night",
+      "has_synced": true,
+      "path": "select/09_You_Broke_Me_First_Our_Last_Night.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "You Broke Me First",
+      "artist": "Conor Maynard",
+      "has_synced": true,
+      "path": "select/10_You_Broke_Me_First_Conor_Maynard.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "you broke me first",
+      "artist": "Tate McRae",
+      "has_synced": false,
+      "path": "select/pl_01_you_broke_me_first_Tate_McRae.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "you broke me first",
+      "artist": "Tate McRae",
+      "has_synced": false,
+      "path": "select/pl_02_you_broke_me_first_Tate_McRae.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "you broke me first",
+      "artist": "Tate McRae",
+      "has_synced": false,
+      "path": "select/pl_03_you_broke_me_first_Tate_McRae.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "You Broke Me First",
+      "artist": "Tate McRae",
+      "has_synced": false,
+      "path": "select/pl_04_You_Broke_Me_First_Tate_McRae.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "You Broke Me Too (feat. Avril Lavigne)",
+      "artist": "Tate McRae",
+      "has_synced": false,
+      "path": "select/pl_05_You_Broke_Me_Too_(feat._Avril_Lavigne)_Tate_McRae.txt"
+    }
+  ]
+}
